@@ -1,5 +1,5 @@
 # vietnamese_text_correction
-Sotf-masked XLM-R and Hard-masked XLM-R for Vietnamese Text Correction
+Hard-masked XLM-R for Vietnamese Text Correction
 
 `CreateData.ipynb` chứa code dùng để tạo dữ liệu training.
 

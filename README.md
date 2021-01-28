@@ -6,3 +6,5 @@ Hard-masked XLM-R for Vietnamese Text Correction
 `Training_detector.ipynb` chứa code để huấn luyện detector.
 
 `HardMasked_predict.ipynb` dùng để predict, sau khi đã huấn luyện detector.
+
+`Spelling Error Correction using XLM-RoBERTa.pdf` report phương pháp.

@@ -19,3 +19,13 @@ Hard-masked XLM-R for Vietnamese Text Correction
 `Spelling Error Correction using XLM-RoBERTa.pdf` report phương pháp.
 
 Link bài viết tutorial: https://huynhnhathao.github.io/myblogs/2021/01/20/vietnamese-spelling-error-correction.html
+
+## Train tokenizer và mô hình từ đầu
+
+### Train spm tokenizer:
+
+Tải về file text: https://drive.google.com/file/d/1mCkOhA8gYo01sdCuDmGyhCWw1aiDtF7Q/view?usp=sharing, dùng notebook CreateData.ipynb để huấn luyện spm tokenzer.
+
+### Train detector
+
+Để huấn luyện lại detector, cần tạo dữ liệu các từ sai chính tả theo hướng dẫn như trong file CreateData.ipynb, code trong này có thể không chạy ngay được, cần có một chút thay đổi cho phù hợp

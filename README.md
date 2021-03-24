@@ -22,7 +22,7 @@ Link bài viết tutorial: https://huynhnhathao.github.io/myblogs/2021/01/20/vie
 
 ## Train tokenizer và mô hình từ đầu
 
-### Train spm tokenizer:
+### Train spm tokenizer
 
 Tải về file text: https://drive.google.com/file/d/1mCkOhA8gYo01sdCuDmGyhCWw1aiDtF7Q/view?usp=sharing, dùng notebook CreateData.ipynb để huấn luyện spm tokenzer.
 

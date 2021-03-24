@@ -1,7 +1,7 @@
 # vietnamese_text_correction
 Hard-masked XLM-R for Vietnamese Text Correction
 
-`crawltext.ipynb` chứa code craw dữ liệu từ các trang báo điện tử
+`crawltext.ipynb` chứa code thu thập dữ liệu từ các trang báo điện tử
 
 `CreateData.ipynb` chứa code dùng để tạo dữ liệu training.
 

@@ -28,4 +28,4 @@ Tải về file text: https://drive.google.com/file/d/1mCkOhA8gYo01sdCuDmGyhCWw1
 
 ### Train detector
 
-Để huấn luyện lại detector, cần tạo dữ liệu các từ sai chính tả theo hướng dẫn như trong file CreateData.ipynb, code trong này có thể không chạy ngay được, cần có một chút thay đổi cho phù hợp
+Để huấn luyện lại detector, cần tạo dữ liệu các từ sai chính tả theo hướng dẫn như trong file CreateData.ipynb.

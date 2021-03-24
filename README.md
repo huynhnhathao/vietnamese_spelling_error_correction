@@ -1,6 +1,8 @@
 # vietnamese_text_correction
 Hard-masked XLM-R for Vietnamese Text Correction
 
+`sua loi chinh ta tu dong.pdf` và `Spelling Error Correction using XLM-RoBERTa.pdf` trình bày chi tiết thí nghiệm và kết quả.
+
 `crawltext.ipynb` chứa code thu thập dữ liệu từ các trang báo điện tử
 
 `CreateData.ipynb` chứa code dùng để tạo dữ liệu training.

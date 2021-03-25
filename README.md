@@ -2,6 +2,9 @@
 Hard-masked XLM-R for Vietnamese Text Correction
 
 ## Chạy mô hình với model được huấn luyện sẵn
+
+### Cần chạy câu lệnh !pip install torch==1.7.0 để đưa pytorch về phiên bản cũ
+
 1. Tải các file trong thư mục sau về : https://drive.google.com/drive/folders/1pFecTPiMqcg7sIeebkM8QSerRN1pfTlb?usp=sharing
 2. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về, Khuyến khích chạy trên Google Colab!
 

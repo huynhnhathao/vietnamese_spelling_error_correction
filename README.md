@@ -6,7 +6,8 @@ Hard-masked XLM-R for Vietnamese Text Correction
 ### Cần chạy câu lệnh !pip install torch==1.7.0 để đưa pytorch về phiên bản cũ
 
 1. Tải các file trong thư mục sau về : https://drive.google.com/drive/folders/1pFecTPiMqcg7sIeebkM8QSerRN1pfTlb?usp=sharing
-2. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về, Khuyến khích chạy trên Google Colab!
+2. `random_vocab` dùng trong createData: https://drive.google.com/file/d/1VjHED1hE6i4Is-pLafQxkDXxFPsE5WyE/view?usp=sharing
+3. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về, Khuyến khích chạy trên Google Colab!
 
 ## Chi tiết các files
 `Sua loi chinh ta tu dong.pdf` và `Spelling Error Correction using XLM-RoBERTa.pdf` trình bày chi tiết thí nghiệm và kết quả.

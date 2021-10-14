@@ -8,7 +8,7 @@ Hard-masked XLM-R for Vietnamese Text Correction
 
 
 1. Tải các file trong thư mục sau về : https://drive.google.com/drive/folders/1pFecTPiMqcg7sIeebkM8QSerRN1pfTlb?usp=sharing
-2. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về, Khuyến khích chạy trên Google Colab!
+2. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về
 3. Thư mục chứa toàn bộ data: https://drive.google.com/drive/folders/1En5uILZJUJrwa-BcFdwEWSWz60xrDeGY?usp=sharing
 
 

@@ -4,12 +4,11 @@ Hard-masked XLM-R for Vietnamese Text Correction
 
 ## Dùng mô hình đã được train sẵn
 
-1. Tải các file trong thư mục sau về : https://drive.google.com/drive/folders/1pFecTPiMqcg7sIeebkM8QSerRN1pfTlb?usp=sharing
-2. Tải về file notebook HardMasked_predict.ipynb, đặt chung thư mục với thư mục vừa tải về
-3. Chạy file HardMasked_predict.ipynb
+1. Clone repository này về máy.
+1. Tải các file trong thư mục sau về : https://drive.google.com/drive/folders/1pFecTPiMqcg7sIeebkM8QSerRN1pfTlb?usp=sharing, đặt chung với thư mục cloned.
+2. Chạy file HardMasked_predict.ipynb. 
 
 * Thư mục chứa toàn bộ data: https://drive.google.com/drive/folders/1En5uILZJUJrwa-BcFdwEWSWz60xrDeGY?usp=sharing
-
 
 ## Chi tiết các files
 `Sua loi chinh ta tu dong.pdf` và `Spelling Error Correction using XLM-RoBERTa.pdf` trình bày chi tiết thí nghiệm và kết quả.

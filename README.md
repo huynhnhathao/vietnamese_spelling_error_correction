@@ -1,5 +1,5 @@
-# vietnamese_text_correction
-Hard-masked XLM-R for Vietnamese Text Correction
+# Hard-masked XLM-R for Vietnamese Text Correction
+
 
 
 ## Dùng mô hình đã được train sẵn

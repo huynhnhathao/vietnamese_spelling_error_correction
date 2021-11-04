@@ -37,7 +37,7 @@ Tải về file text: https://drive.google.com/file/d/1mCkOhA8gYo01sdCuDmGyhCWw1
 
 Để huấn luyện lại detector, cần tạo dữ liệu các từ sai chính tả theo hướng dẫn như trong file CreateData.ipynb.
 
-### Tóm tắt:
+## Tóm tắt:
 
 - Mô hình này dùng để làm gì? : mô hình cuối cùng có thể dùng để thay thế từ sai chính tả trong một câu thành một từ mới, *mà model cho là phù hợp hơn*.
 - Mô hình cuối cùng tốt cỡ nào? : mô hình này có nhận ra được một từ sai chính tả hay không là phụ thuộc vào dữ liệu training của nó có đủ tốt hay chưa. Dữ liệu training tạo trong repository này vẫn chưa đủ tốt để nhận ra hầu hết các lỗi sai, nên muốn độ chính xác tốt hơn thì tạo dữ liệu tốt hơn.

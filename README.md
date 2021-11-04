@@ -39,7 +39,7 @@ Tải về file text: https://drive.google.com/file/d/1mCkOhA8gYo01sdCuDmGyhCWw1
 
 ## Tóm tắt:
 
-- Mô hình này dùng để làm gì? : mô hình cuối cùng có thể dùng để thay thế từ sai chính tả trong một câu thành một từ mới, *mà model cho là phù hợp hơn*.
+- Mô hình này dùng để làm gì? : mô hình cuối cùng có thể dùng để nhận dạng và thay thế từ sai chính tả trong một câu thành một từ mới, *mà model cho là phù hợp hơn*.
 - Mô hình cuối cùng tốt cỡ nào? : mô hình này có nhận ra được một từ sai chính tả hay không là phụ thuộc vào dữ liệu training của nó có đủ tốt hay chưa. Dữ liệu training tạo trong repository này vẫn chưa đủ tốt để nhận ra hầu hết các lỗi sai, nên muốn độ chính xác tốt hơn thì tạo dữ liệu tốt hơn.
 - Mô hình hoạt động như thế nào? : mô hình cuối cùng gồm có 2 mô hình con, một cái có nhiệm vụ nhận ra từ sai chính tả và một cái điền vào chỗ trống. Project này chỉ tạo dữ liệu training và train mô hình dự đoán từ sai chính tả, còn việc điền vào chỗ trống thì đưa cho XLM-R masked language model làm. Nên nói đúng hơn thì nó không sửa từ sai chính tả mà là replace từ sai chính tả bằng từ mới, hên xui từ mới đó sẽ là từ đúng chính tả.
 - Sao không làm cho nó đúng chất là một mô hình sửa chính tả luôn?: left as an exercise to the reader!
